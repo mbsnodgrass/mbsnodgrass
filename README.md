@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello, I'm Maxwell Snodgrass
+## Things to know about me:
+- Economics Student at University of Pittsburgh
+- Studying Data Analytics/Science
 
 <!--
 **mbsnodgrass/mbsnodgrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
