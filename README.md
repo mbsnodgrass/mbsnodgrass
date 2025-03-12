@@ -4,7 +4,7 @@
 - I am interested in data science, economics, and statistics
 
 ## Current Area of Work
-- I am working with the Pittsburgh Parks Conservancy on a data consulting project! The goal of this project is to create is to assign an investment need score to each park within the city of Pittsburgh. This index is comprised of census data, health data, and environmental data. Programs like R, Python, SQL, and QGIS are used to clean, analyze, and attach this data. 
+- I am working with the Pittsburgh Parks Conservancy on a data consulting project! The goal of this project is to assign an investment need score to each park within the city of Pittsburgh. This index is comprised of census data, health data, and environmental data. Programs like R, Python, SQL, and QGIS are used to clean, analyze, and attach this data. 
 
 <!--
 **mbsnodgrass/mbsnodgrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
