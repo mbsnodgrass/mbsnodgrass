@@ -2,6 +2,7 @@
 ## Things to know about me:
 - Master of Quantitative Economics Student at the University of Pittsburgh
 - I am interested in data science, economics, and statistics
+- Experience with R, Python, SQL, Excel, Tableau, QGIS
 
 ## Current Area of Work
 - I am working with the Pittsburgh Parks Conservancy on a data consulting project! The goal of this project is to assign an investment need score to each park within the city of Pittsburgh. This score is comprised of individual index scores derived from census data, health data, and environmental data. I am using programs like R, Python, SQL, and QGIS to clean, analyze, and attach this data. 
