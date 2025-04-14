@@ -5,7 +5,8 @@
 - Experience with R, Python, SQL, Excel, Tableau, QGIS
 
 ## Current Area of Work
-- I am working with the Pittsburgh Parks Conservancy on a data consulting project! The goal of this project is to assign an investment need score to each park within the city of Pittsburgh. This score is comprised of individual index scores derived from census data, health data, and environmental data. I am using programs like R, Python, SQL, and QGIS to clean, analyze, and attach this data. 
+- I am working with the Pittsburgh Parks Conservancy on a data consulting project! The goal of this project is to assign an investment need score to each park within the city of Pittsburgh. This score is comprised of individual index scores derived from census data, health data, and environmental data. I am using programs like R, Python, SQL, and QGIS to clean, analyze, and attach this data.
+- The project is currently in progress and will be finished on April 25th, 2025. Here is the progress so far: https://github.com/mbsnodgrass/Pittsburgh-Parks-Conservancy-Project/blob/main/Parks%20Report%20Unfinished.pdf
 ## Goal of this Github Page
 - I made this github page to showcase some of the data oriented projects that I have completed. These projects touch on a variety of different skillsets ranging from econometrics and causal inference to data science and machine learning.
 - There are additional projects on this github including economics papers that I have written during my undergraduate career. 
