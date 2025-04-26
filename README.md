@@ -1,6 +1,6 @@
 # Hello, I'm Maxwell Snodgrass
 ## Things to know about me:
-- Master of Quantitative Economics Student at the University of Pittsburgh
+- Master of Quantitative Economics Graduate at the University of Pittsburgh
 - I am interested in data science, economics, and statistics
 - Experience with R, Python, SQL, Excel, Tableau, QGIS
 
